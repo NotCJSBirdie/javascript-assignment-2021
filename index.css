@@ -1,0 +1,80 @@
+/* This is an external CSS File */
+body {
+  margin: 0;
+}
+.div1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 0;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.div2 {
+  margin: 0;
+  background-color: darkred;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.div3 {
+  margin: 0;
+  background-color: darksalmon;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.div4 {
+  margin: 0;
+  background-color: darkseagreen;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.div5 {
+  margin: 0;
+  background-color: darkslateblue;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.div6 {
+  margin: 0;
+  background-color: darkslategray;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.div12 {
+  background-color: white;
+  margin: 10px 10px;
+}
+
+.div13 {
+  background-color: white;
+  margin: 10px 10px;
+}
+
+.div14 {
+  background-color: white;
+  margin: 10px 10px;
+}
+
+.div15 {
+  background-color: white;
+  margin: 10px 10px;
+}
+.div16 {
+  background-color: white;
+  margin: 10px 10px;
+}
